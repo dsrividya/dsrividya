@@ -62,9 +62,6 @@
 <h2 align="center">🚀 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/dsrividya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
   &nbsp;
   <a href="https://dsrividya.github.io/Portfolio_srividya/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-29ABE2?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="Portfolio Badge"/>
