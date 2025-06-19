@@ -3,6 +3,9 @@
 <h3 align="center">A passionate Full Stack Java Developer</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1500&center=true&vCenter=true&width=700&lines=Welcome+to+Srividya's+GitHub+Profile!;Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Enthusiast;Let's+build+something+amazing+💻" alt="Typing SVG" />
+</p>
 
 ### 👩‍💻 About Me
 
@@ -55,20 +58,28 @@
 
 ---
 
-### 📫 Contact Me
 
-- **Email**:srividyadomala0712@gmail.com
-- **LeetCode**: [leetcode.com/u/SrividyaDomala](https://leetcode.com/u/SrividyaDomala)
-- ## Portfolio
+<h2 align="center">🚀 Connect With Me</h2>
 
-Check out my portfolio here: [https://dsrividya.github.io/Portfolio_srividya](https://dsrividya.github.io/Portfolio_srividya)
+<p align="center">
+  <a href="https://github.com/dsrividya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://dsrividya.github.io/Portfolio_srividya/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-29ABE2?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/SrividyaDomala/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:srividyadomala0712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 
----
 
-<!-- GitHub Stats (Optional – uncomment if needed) -->
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrividya&show_icons=true&locale=en&layout=compact" alt="dsrividya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsrividya&show_icons=true&locale=en" alt="dsrividya" /></p>
--->
+
 
