@@ -25,7 +25,7 @@
 ### 🛠️ Skills & Tools
 
 #### 🧩 Programming Languages:
-- Java, JavaScript, TypeScript, SQL
+- Java, python, C, C++, JavaScript, TypeScript, SQL
 
 #### 🎯 Backend Frameworks & Tools:
 - Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, RESTful APIs
